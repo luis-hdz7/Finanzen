@@ -348,9 +348,8 @@ El proyecto integra estas áreas en una aplicación orientada a resolver una nec
 
 | Integrante | Correo electrónico | GitHub |
 |---|---|---|
-| **Brandon Reynaldo Rodríguez Téllez** | `brandonbrt2020@gmail.com` | [@Brando-1510](https://github.com/Brando-1510) |
-| **Leonardo Antonio Tellería Trujillo** | `telleriatrujilloleonardoanti@gmail.com` | [@LeonardoTelleria](https://github.com/LeonardoTelleria) |
 | **Jorge Luis Antón Henández** | `luisjorgeantonhernandez@gmail.com` | [@luis-hdz7](https://github.com/luis-hdz7) |
+| **Brandon Reynaldo Rodríguez Téllez** | `brandonbrt2020@gmail.com` | [@Brando-1510](https://github.com/Brando-1510) |
 | **Luis Carlos Castillo Gómez** | `luis1284ufd4@gmail.com` | [@luiscastillo-18c](https://github.com/luiscastillo-18c) |
 
 ---
@@ -358,7 +357,5 @@ El proyecto integra estas áreas en una aplicación orientada a resolver una nec
 <div align="center">
 
 **Finanzen — Información financiera para tomar mejores decisiones.**
-
-*Proyecto académico en desarrollo.*
 
 </div>
